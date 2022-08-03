@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Java, React and TypeScript
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 🤔 I’m looking for help with **React, Redux**
-- 📫 How to reach me: **hkwodiki@gmail.com**
+- 📫 How to reach me: **hkowdiki@gmail.com**
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
