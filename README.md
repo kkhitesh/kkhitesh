@@ -1,14 +1,19 @@
 <h1 align="center"> Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">, I'm Hitesh Kowdiki </br> 
 </h1>
 
-<div style="display: flex;>
-<img src="https://64.media.tumblr.com/2c551700bc0501aaca64fc6316abe140/a15a1cf8a4616f2a-ca/s640x960/2bd714f3d123bd4b2030bdf9a0f24ee8e55d3d99.gif" width="400" height="250">
-<p>
-<h4> 💻 Software Engineer </h4>
-<h4> ⚡ I love learning and building with new Technologies </h4>
-<h4> ☕ Turning Coffee into Code </h4>
-<h4> 👨🏻‍💻 Currently Learning **NextJS** and **Web 3.0** </h4>
-</p>
+<div style="display: flex;">
+<img align="left" src="https://64.media.tumblr.com/2c551700bc0501aaca64fc6316abe140/a15a1cf8a4616f2a-ca/s640x960/2bd714f3d123bd4b2030bdf9a0f24ee8e55d3d99.gif" width="400" height="250" style="margin:0px 50px"/>
+<div>
+<br />
+<h4>	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;💻 Software Engineer </h4>
+<h4> 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⚡ I love learning and building with new Technologies </h4>
+<h4> 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;☕ Turning Coffee into Code </h4>
+<h4> 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👨🏻‍💻 Currently Learning NextJS and Web 3.0 </h4>
+<br />
+<br />
+<br />
+<br />
+</div>
 </div>
 
 
