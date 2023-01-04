@@ -35,44 +35,46 @@
 
 ## ⚡ Technologies
 #### Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
-![CPP](https://img.shields.io/badge/cpp-000?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python&logoColor=3670A0)
-![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3)
-![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5)
-![Markdown](https://img.shields.io/badge/-Markdown-000?style=for-the-badge&logo=markdown)
-![Java](https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=java)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23323330?style=for-the-badge&logo=javascript)
+![CPP](https://img.shields.io/badge/c++-%2300599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/python-FFD43B?style=for-the-badge&logo=python&logoColor=3670A0)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3)
+![HTML5](https://img.shields.io/badge/-HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Markdown](https://img.shields.io/badge/-Markdown-FFD43B?style=for-the-badge&logo=markdown&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-%23ED8B00?style=for-the-badge&logo=java)
 
 #### JS Framework/Library
 ![React](https://img.shields.io/badge/-ReactJS-000?style=for-the-badge&logo=react)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![Next JS](https://img.shields.io/badge/-NextJS-000?style=for-the-badge&logo=next.js)
 
+
 #### CSS Framework/Library/Pre-processors
-![Mantine](https://img.shields.io/badge/-Mantine%20UI-000?style=for-the-badge&logo=mantine)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=for-the-badge&logo=bootstrap)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind-000?style=for-the-badge&logo=tailwindcss)
+![Mantine](https://img.shields.io/badge/-Mantine%20UI-%2338B2AC?style=for-the-badge&logo=mantine)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-%23563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind-%2338B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 #### Design/Visual Tools
-![Figma](https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma)
-![Canva](https://img.shields.io/badge/-Canva-000?style=for-the-badge&logo=canva)
+![Figma](https://img.shields.io/badge/-Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/-Canva-%2300C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 #### Database/State
-![Firebase](https://img.shields.io/badge/-Firebase-000?style=for-the-badge&logo=firebase)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/-MySQL-000?style=for-the-badge&logo=mysql)
+![Firebase](https://img.shields.io/badge/-Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white&textColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-68a063?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-%231572B6?style=for-the-badge&logo=mysql&logoColor=white)
 
 #### Backend
-![NodeJS](https://img.shields.io/badge/-NodeJS-000?style=for-the-badge&logo=node.js&logoColor=pink)
-![Express.js](https://img.shields.io/badge/-ExpressJS-000?style=for-the-badge&logo=express)
-![API](https://img.shields.io/badge/-API-000?style=for-the-badge&logo=fastapi)
+![NodeJS](https://img.shields.io/badge/-NodeJS-68a063?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-ExpressJS-%2368a063?style=for-the-badge&logo=express&logoColor=white)
+![API](https://img.shields.io/badge/-API-%2338B2AC?style=for-the-badge&logo=fastapi&logoColor=white)
 
 #### Package Manager
-![NPM](https://img.shields.io/badge/-NPM-000?style=for-the-badge&logo=npm)
-![Yarn](https://img.shields.io/badge/-yarn-000?style=for-the-badge&logo=yarn)
+![NPM](https://img.shields.io/badge/-NPM-%23F24E1E?style=for-the-badge&logo=npm&logoColor=white)
+![Yarn](https://img.shields.io/badge/-yarn-%231572B6?style=for-the-badge&logo=yarn&logoColor=white)
 
 #### Version Control
-![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
+![Git](https://img.shields.io/badge/-Git-%23ED8B00?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-%23F24E1E?style=for-the-badge&logo=github&logoColor=white)
 
 ## 📈 Stats
 <p align="center">
